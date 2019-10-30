@@ -4,7 +4,7 @@ Notre entreprise, KIBUZZ.com, a décidé de vendre des t-shirts tendances aux in
 
 
 1. Comment réserver ce nom de domaine, à quel prix ? Puis-je créer ce sous domaine si je le veux ? 
-2. Mettre les t-shirts donnés à la fin de cette consigne dans un fichier tshirts.json, faire un "GET" sur le fichier avec axios ou fetch
+2. Mettre les t-shirts donnés à la fin de cette consigne dans un fichier tshirts.json, faire un "GET" sur le fichier avec axios ou fetch (Partir d'une seed ES6 est recommandé: https://github.com/ltruchot/webpack-seed-js-sass)
 3. Présenter tous ces t-shirts (leurs infos et images) dans une seule page web responsive
 3. Ne pas présenter de doublons (même productId ET même gender === doublon)
 4. Ajouter des filtres dans un header

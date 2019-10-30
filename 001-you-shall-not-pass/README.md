@@ -1,0 +1,3 @@
+Ecrivez un programme qui, lorsqu'on lance la page web, demande à l'utilisateur de saisir un mot de passe (via une popup de prompt, ou un formulaire HTML).
+Si la personne écrit le mot de passe t0t0t1t1, alors il est prévenu qu'il est autorisé à utiliser le site. Sinon, on le prévient que son password est invalide (via une popup d'alerte, ou dans le HTML).
+Question Bonus: Pensez vous que c'est une manière solide et durable de protéger un site web ?
