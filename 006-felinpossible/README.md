@@ -1,5 +1,4 @@
-# Le défi "félinpossible"
-
+# Le défi félinpossible
 ## Consignes de base
 - utiliser notre [seed parcel](https://github.com/ltruchot/parcel-seed-js-eslint-sass) 
   - git clone https://github.com/ltruchot/parcel-seed-js-eslint-sass
