@@ -38,5 +38,6 @@
 - le premier choix dans ce select est "tout voir", pour pouvoir revenir à l'état initial
 - En haut du site, un petit carousel "mets en avant" 10 films piochés au hasard (3 visibles, 7 invisibles, qui tournent dans le carousel)
 - Toutes les jaquettes ont une petite icône "coeur vide": cliquer dessus le rempli et vice-versa (sans ouvrir la popup)
-- "aimer" des films (en cliquant sur ce coeur) change le contenu des "mises en avant" du carousel
-  - selon les goûts de l'utilisateur, uniquement des films du même "genre" sont proposé dans le carousel
+- "aimer" des films (en cliquant sur ce coeur) change dynamiquement le contenu des "mises en avant" du carousel
+  - selon les goûts de l'utilisateur, uniquement des films du même "genre" sont proposés dans le carousel
+- L'état de l'app est enregistré dans le localStorage
