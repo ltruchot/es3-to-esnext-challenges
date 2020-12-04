@@ -5,7 +5,7 @@
   - renommer ce dossier "hackerflix", l'ouvrir avec VSCode, supprimer ".git" à la racine
   - ouvrir un terminal, puis
     - `npm install`
-    - `npmi start`
+    - `npm start`
   - ouvrir le navigateur sur http://localhost:1234 
 - clean le projet
   - dé-commenter le lien vers bootstrap dans styles.scss
