@@ -26,7 +26,7 @@
 - ATTENTION: certains film n'ont pas de "poster" (leur propriété `img` est alors à `false`). Dans ce cas, un rectangle coloré remplace l'image, et le titre du film est écrit dans ce rectangle
 
 ### Javascript dynamique
-- cliquer sur un "poster" ouvre une popup: une div centrée, au dessus des élements, en position fixed, invisible au début
+- cliquer sur un "poster" ouvre une popup: une div centrée, au dessus des élements, en position fixed
 - Cette popup affiche toutes les infos disponibles pour le film cliqué
 - Cette popup contient un bouton "fermer": cliquer dessus la cache de nouveau
 - On peut utiliser cette popup plusieurs fois d'affilé
