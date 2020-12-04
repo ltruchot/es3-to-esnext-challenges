@@ -43,3 +43,5 @@
   - selon les goûts de l'utilisateur, uniquement des films du même "genre" sont proposés dans le carousel
 - L'état de l'app est enregistré dans le localStorage
 - Tout ça est beau, original, ergonomique et responsive
+
+> Workshop librement inspiré du site [hackermovie.club](https://hackermovie.club/)
