@@ -17,10 +17,10 @@
 
 ### Javascript statique
 - Nous proposons un site pour le fan de film à propos du hacking
-- utiliser les données présentes dans `movies.js`
+- utiliser les données présentes dans [movies.js](https://github.com/ltruchot/es3-to-esnext-challenges/blob/master/007-hackerflix/movies.js)
   - les exporter depuis un fichier
   - les importer dans votre script.js
-- copier le dossiers `posters` dans votre dossier `static`
+- copier le dossiers `posters` dans votre dossier `static` (here is a [download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ltruchot/es3-to-esnext-challenges/tree/master/007-hackerflix/posters))
 - tous les "posters imbd" des films sont visibles sur votre page d'accueil dans un grand container en "flex-wrap"
 - ATTENTION: certains film n'ont pas de "poster" (leur propriété `img` est alors à `false`). Dans ce cas, un rectangle coloré remplace l'image, et le titre du film est écrit dans ce rectangle
 
