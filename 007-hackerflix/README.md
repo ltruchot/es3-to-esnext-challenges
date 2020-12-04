@@ -30,8 +30,8 @@
 - Cette popup affiche toutes les infos disponibles pour le film cliqué
 - Cette popup contient un bouton "fermer": cliquer dessus la cache de nouveau
 - On peut bien sûr retrouver cette popup plusieurs fois d'affilé, en cliquant sur différents films
-- Il y a un bouton en haut de site "Recent film only"
-- Cliquer dessus cache toutes les jaquettes de film réalisé avant l'an 2000
+- Il y a un bouton en haut du site: "Recent film only"
+- Cliquer dessus cache toutes les jaquettes de films réalisés avant l'an 2000
 
 ## Bonus (non compté dans l'épreuve JS)
 - Un champ "select" permet de fitrer les films par genre: on choisit son genre et on ne voit plus que les films concernés
