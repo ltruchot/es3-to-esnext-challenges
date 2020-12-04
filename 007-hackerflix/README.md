@@ -36,7 +36,7 @@
 ## Bonus (non compté dans l'épreuve JS)
 - Un champ "select" permet de fitrer les films par genre: on choisit son genre et on ne voit plus que les films concernés
 - le premier choix dans ce select est "tout voir", pour pouvoir revenir à l'état initial
-- En haut du site, un petit carousel "mets en avant" 10 films piochés au hasard 
+- En haut du site, un petit carousel "mets en avant" 10 films piochés au hasard (3 visibles, 7 invisibles, qui tournent dans le carousel)
 - Toutes les jaquettes ont une petite icône "coeur vide": cliquer dessus le rempli et vice-versa (sans ouvrir la popup)
 - "aimer" des films (en cliquant sur ce coeur) change le contenu des "mises en avant" du carousel
   - selon les goûts de l'utilisateur, uniquement des films du même "genre" sont proposé dans le carousel
