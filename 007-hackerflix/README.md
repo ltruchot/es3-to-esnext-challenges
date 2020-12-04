@@ -29,7 +29,7 @@
 - cliquer sur un "poster" ouvre une popup: une div centrée, au dessus des élements, en position fixed
 - Cette popup affiche toutes les infos disponibles pour le film cliqué
 - Cette popup contient un bouton "fermer": cliquer dessus la cache de nouveau
-- On peut utiliser cette popup plusieurs fois d'affilé
+- On peut bien sûr retrouver cette popup plusieurs fois d'affilé, en cliquant sur différents films
 - Il y a un bouton en haut de site "Recent film only"
 - Cliquer dessus cache toutes les jaquettes de film réalisé avant l'an 2000
 
