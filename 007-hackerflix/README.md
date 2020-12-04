@@ -20,6 +20,7 @@
 - utiliser les données présentes dans `movies.js`
   - les exporter depuis un fichier
   - les importer dans votre script.js
+- copier le dossiers `posters` dans votre dossier `static`
 - tous les "posters" de film sont visibles sur votre page d'accueil dans un grand container en "flex-wrap"
 - ATTENTION: certains film n'ont pas de "poster" (leur propriété `.img` est à `false`). Dans ce cas, un rectangle bleu ciel remplace l'image, et le titre du film est écrit dans ce rectangle
 
