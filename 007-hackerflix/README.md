@@ -17,6 +17,7 @@
 
 ### Javascript statique
 - Nous proposons un site pour le fan de film à propos du hacking
+- La page est juste une grande mosaïque de jaquettes de films, un peu comme Netflix en plus simple
 - utiliser les données présentes dans [movies.js](https://github.com/ltruchot/es3-to-esnext-challenges/blob/master/007-hackerflix/movies.js)
   - les exporter depuis un fichier
   - les importer dans votre script.js
