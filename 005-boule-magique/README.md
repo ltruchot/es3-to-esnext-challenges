@@ -1,3 +1,5 @@
+# La boule magique
+
 Récemment, un jeune développeur a fait fortune en créant une app au concept assez simple.  
 Une image de boule de billard noire avec une 8 dedans est visible est au beau milieu de la page.  
 
