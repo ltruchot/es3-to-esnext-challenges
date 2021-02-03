@@ -2,7 +2,7 @@
 
 Faire une app musicale sur l'air de Daft Punk - Harder, Better, Faster, Stronger
 
-https://github.com/ltruchot/i3-daftpunk-samples
+- Récuperer les [samples](https://github.com/ltruchot/es3-to-esnext-challenges/blob/master/012-harder-better-stonger/all_samples.zip) dans ce repo
 
 Le code suivant apparaît au début de votre body, pour contourner les restrictions de lecture auto.
 
