@@ -1,4 +1,4 @@
-# Covid Killer
+# Spicy Pablo
 
 ## Infos
 Février 2020
@@ -6,9 +6,9 @@ Février 2020
 HTML - CSS - JavaScript: Epreuve pratique en 7h
 
 Répartition sur 100 pts
-- HTML 33 pts
-- CSS ou SCSS 33 pts
-- JavaScript 34 pts 
+- HTML 30 pts
+- CSS ou SCSS 30 pts
+- JavaScript 40 pts 
 
 ## Consignes
 *Toutes sources d'information autorisées, mais pas de communication interpersonnelles pendant l'épreuve. L'aspect individuel/unique de la résolution des questions et du problème fait partie de la note.*
@@ -28,14 +28,16 @@ Jusqu'ici, il faisait tout par What's app, et ça marchait très bien.
 
 Mais il est temp de passer à la vitesse supérieure.
 
-La Maison Salvi veut son site web, sur lequel on pourra prendre contact avec Pablo et passer en revue les menus du jours, et passé.
+La Maison Salvi veut son site web, sur lequel on pourra prendre contact avec Pablo et passer en revue les menus du jours, et passés.
 
-### Intégration HTML/CSS (66 pts)
+### Intégration HTML/CSS (60 pts)
 - créer un nouveau projet (React, OU seed parcel OU juste des fichier html/css/JS)
 - utiliser les modèles de page (all.png, page1.png, page2.png) pour créer une single page application
 - utiliser les différentes images présente dans ce repo
+- votre HTML est parfaitement sémantique et a11n friendly
+- votre CSS/SCSS est bien organisé et DRY
 
-### JavaScript (34 pts)
+### JavaScript (40 pts)
 - modéliser les données suivantes dans un Array JavaScript
 ```
 23 février:
@@ -50,7 +52,7 @@ desserts:
 - salade de fruits frais
 
 22 février:
-entrées
+entrées:
 - Toast de Labneh et salade verte
 - soupe de carottes aux fines herbes
 plats:
@@ -61,7 +63,7 @@ desserts:
 - Panna Cotta, coulis de poire, spéculos
 
 19 février:
-entrées
+entrées:
 - Salade de lentilles et feta, vinaigrette au miel
 - Velouté pois cassés coco
 plats:
@@ -72,7 +74,7 @@ desserts:
 - Crêpe caramel au beurre salée
 
 18 février:
-entrées
+entrées:
 - Velouté de potimarron
 - salade d'hiver composée et vinaigrette à l'orange
 plats:
@@ -89,11 +91,12 @@ desserts:
   - chaque plat du menu est précédé d'une checkbox cliquable
   - cliquer sur le bouton "j'en veux encore" referme la popup
 - les images présentent en page 2 sont en fait un carousel qui tourne automatiquement (il y en a 5 dont 3 visibles)
-
+- Chef Pablo estime que ses créations sont guidées par la musique: sur l'accueil une image de radio permet de play/stop la chanson du jour (présente dans le zip).
 
 ### Bonus (pas compté dans les points - peut réhausser la note finale):
-- Chef Pablo n'a jamais été vraiment convaincu par les designs: il ne trouve pas ça assez original: mettez votre petite touche perso dans le CSS !
-- Chef Pablo estime que ses créations sont guidées par la musique: sur l'accueil une image de radio permet de play/stop la chanson du jour (présente dans le zip).
+- Chef Pablo n'a jamais été vraiment convaincu par les designs: il ne trouve pas ça assez original. Mettez votre petite touche perso dans le CSS, changer styles, couleurs, formes...
 - Cliquer sur une image du carousel l'affiche dans une popup en gros plan
 - L'Array de menu vient désormais d'un JSON, servi par JSON server.
+- Donc cet Array est retrouvé dans le site via une requête AJAX
 - Proposer une page/route "admin" dans laquelle pablo peut rentrer ses recettes jours après jours: elles s'enregistrent grâce au JSON server.
+- Il peut aussi uploader sa musique du jour en mp3...
