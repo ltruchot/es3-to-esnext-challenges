@@ -32,7 +32,14 @@ La Maison Salvi veut son site web, sur lequel on pourra prendre contact avec Pab
 
 ### Intégration HTML/CSS (60 pts)
 - créer un nouveau projet (React, OU seed parcel OU juste des fichier html/css/JS)
-- utiliser les modèles de page (all.png, page1.png, page2.png) pour créer une single page application
+  - React: 
+    - `npm install -g create-react-app` (pas obligatoire)
+    - `npx create-react-app epreuve`
+    - `cd epreuve` (ou ouvrir le projet avec VsCode)
+    - `npm start`
+  - Parcel:
+    - `git clone https://github.com/ltruchot/parcel-seed-js-eslint-sass`
+- utiliser les modèles de page (all.png, page1.png, page2.png) pour créer une single page application (https://github.com/ltruchot/es3-to-esnext-challenges/blob/master/008-spicy-pablo/spicy-pablo-files.zip)
 - utiliser les différentes images présente dans ce repo
 - votre HTML est parfaitement sémantique et a11n friendly
 - votre CSS/SCSS est bien organisé et DRY
